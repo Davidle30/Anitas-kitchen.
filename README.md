@@ -59,7 +59,7 @@ These are some of the images of the pages in the website:
 
 
 ## Author
-This website is built by Janice Kinyua https://github.com/Davidle30/Anitas-kitchen..git
+This website is built by david leteipa https://github.com/Davidle30/Anitas-kitchen..git
 
 ## ISSUES
 There are no known issues
